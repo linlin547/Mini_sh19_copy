@@ -1,0 +1,20 @@
+{
+  "banner": [{
+    "banner_code":200,
+    "banner_id": 1,
+    "banner_name": "首页置顶",
+    "banner_length": 0
+  }],
+  "theme": [{
+    "ids": "1,2,3",
+    "theme_code": 200,
+    "theme_dis": ["id\":1", "id\":2", "id\":3"],
+    "theme_length_url": 0,
+    "theme_name": "专题栏位一"
+  }],
+  "new_product": [{
+    "new_code": 200,
+    "new_length": 0,
+    "new_keys": ["id", "name", "price", "main_img_url"]
+  }]
+}
